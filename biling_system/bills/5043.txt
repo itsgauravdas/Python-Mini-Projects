@@ -1,0 +1,13 @@
+	Welcome MB Retail
+===========================
+Bill Number:5043
+Customer Name:
+Phone Number:
+===========================
+Products		QTY		Price
+ Sanitizer		2		4
+ Medical Tax			Rs. 0.2
+ Grocery Tax			Rs. 0.0
+ Cold Drinks Tax			Rs. 0.0
+ Total Bil:			 Rs.4.2
+--------------------------------
